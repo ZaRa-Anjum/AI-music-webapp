@@ -1,0 +1,9 @@
+body {
+    background-size: auto;
+}
+
+canvas {
+    border-width: 3px;
+    border-style: ridge;
+    box-shadow: 5px 7px 10px beige;
+}
